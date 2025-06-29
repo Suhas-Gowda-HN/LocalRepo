@@ -1,4 +1,4 @@
-# this is been created by the init command and all the commmands that followed
+# This is been created using init command and all the commmands that followed
 <br>
 git remote add origin <link>
 <br>
